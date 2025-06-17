@@ -9,7 +9,9 @@ public class Q7_SaveOddEvenNumbers {
 
         if (number <= 0) {
             System.out.println("Please enter a natural number.");
+            sc.close();
             return;
+            
         }
 
         int[] even = new int[number / 2 + 1];

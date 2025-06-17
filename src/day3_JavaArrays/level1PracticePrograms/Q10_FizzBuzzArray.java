@@ -9,6 +9,7 @@ public class Q10_FizzBuzzArray {
 
         if (number <= 0) {
             System.out.println("Invalid number.");
+            sc.close();
             return;
         }
 
