@@ -2,7 +2,7 @@ package day4_JavaArrays.level1PracticePrograms;
 
 import java.util.Scanner;
 
-public class Q6_VotingEligibilityCheck {
+public class Q1_VotingEligibilityCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] ages = new int[10];
