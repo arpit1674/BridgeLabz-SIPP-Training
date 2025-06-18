@@ -1,5 +1,4 @@
 package day4_JavaMethods.level3PracticeProblems;
-import java.util.*;
 
 public class Q2_NumberChecker1 {
     public static void main(String[] args) {
