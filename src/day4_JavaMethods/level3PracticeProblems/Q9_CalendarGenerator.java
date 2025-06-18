@@ -10,7 +10,7 @@ public class Q9_CalendarGenerator {
         int year = sc.nextInt();
 
         printCalendar(month, year);
-    }
+        sc.close();    }
 
     static void printCalendar(int month, int year) {
         String[] months = {
