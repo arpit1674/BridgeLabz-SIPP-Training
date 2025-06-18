@@ -5,7 +5,6 @@ public class Q1_FootballTeamHeightStats {
     public static void main(String[] args) {
         int[] heights = generateRandomHeights(11);
         System.out.println("Player heights: " + Arrays.toString(heights));
-        int sum = findSum(heights);
         double mean = findMean(heights);
         int min = findShortest(heights);
         int max = findTallest(heights);
