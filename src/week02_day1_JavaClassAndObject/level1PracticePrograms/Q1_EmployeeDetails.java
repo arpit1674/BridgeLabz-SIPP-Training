@@ -1,4 +1,4 @@
-package week02_day1_JavaClassAndObject;
+package week02_day1_JavaClassAndObject.level1PracticePrograms;
 
 import java.util.Scanner;
 
@@ -8,22 +8,22 @@ public class Q1_EmployeeDetails {
     double salary;
 
     void displayDetails() {
-        System.out.println("Employee Name: " + name);
-        System.out.println("Employee ID: " + id);
-        System.out.println("Salary: ₹" + salary);
+        System.out.println("Employee Name : " + name);
+        System.out.println("Employee ID : " + id);
+        System.out.println("Salary : ₹" + salary);
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Q1_EmployeeDetails emp = new Q1_EmployeeDetails();
 
-        System.out.print("Enter Employee Name: ");
+        System.out.print("Enter Employee Name : ");
         emp.name = sc.nextLine();
 
-        System.out.print("Enter Employee ID: ");
+        System.out.print("Enter Employee ID : ");
         emp.id = sc.nextInt();
 
-        System.out.print("Enter Salary: ");
+        System.out.print("Enter Salary : ");
         emp.salary = sc.nextDouble();
 
         emp.displayDetails();

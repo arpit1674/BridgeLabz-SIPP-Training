@@ -1,4 +1,4 @@
-package week02_day1_JavaClassAndObject;
+package week02_day1_JavaClassAndObject.level1PracticePrograms;
 
 import java.util.Scanner;
 
