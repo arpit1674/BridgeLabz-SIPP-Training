@@ -17,11 +17,11 @@ public class Q2_CircleArea {
         Scanner sc = new Scanner(System.in);
         Q2_CircleArea circle = new Q2_CircleArea();
 
-        System.out.print("Enter Radius: ");
+        System.out.print("Enter Radius : ");
         circle.radius = sc.nextDouble();
 
-        System.out.println("Area: " + circle.getArea());
-        System.out.println("Circumference: " + circle.getCircumference());
+        System.out.println("Area : " + circle.getArea());
+        System.out.println("Circumference : " + circle.getCircumference());
         sc.close();
     }
 }
