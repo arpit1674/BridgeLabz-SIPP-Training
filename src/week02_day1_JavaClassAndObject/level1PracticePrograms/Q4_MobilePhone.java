@@ -9,21 +9,21 @@ public class Q4_MobilePhone {
 
     void displayDetails() {
         System.out.println("Brand: " + brand);
-        System.out.println("Model: " + model);
-        System.out.println("Price: ₹" + price);
+        System.out.println("Model : " + model);
+        System.out.println("Price : ₹" + price);
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Q4_MobilePhone phone = new Q4_MobilePhone();
 
-        System.out.print("Enter Brand: ");
+        System.out.print("Enter Brand : ");
         phone.brand = sc.nextLine();
 
-        System.out.print("Enter Model: ");
+        System.out.print("Enter Model : ");
         phone.model = sc.nextLine();
 
-        System.out.print("Enter Price: ");
+        System.out.print("Enter Price : ");
         phone.price = sc.nextDouble();
 
         phone.displayDetails();
