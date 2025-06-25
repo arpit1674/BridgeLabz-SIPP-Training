@@ -1,5 +1,4 @@
 package week02_day2_JavaConstructors_InstancevsClassVariables_AccessModifiers;
-import java.util.Scanner;
 
 public class Q5_LibraryBookSystem {
     String title;
