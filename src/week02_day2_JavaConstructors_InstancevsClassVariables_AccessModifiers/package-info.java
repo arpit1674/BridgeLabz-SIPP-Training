@@ -1,1 +1,0 @@
-package week02_day2_JavaConstructors_InstancevsClassVariables_AccessModifiers;
