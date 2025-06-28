@@ -1,4 +1,4 @@
-package workshop;
+package day1_onWorkshop;
 import java.util.Scanner;
 
 public class Q2_ElectionBoothManager {

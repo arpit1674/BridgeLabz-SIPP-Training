@@ -1,4 +1,4 @@
-package workshop;
+package day1_onWorkshop;
 import java.util.Scanner;
 
 public class Q1_CoffeeCounterChronicles {
@@ -6,7 +6,7 @@ public class Q1_CoffeeCounterChronicles {
         Scanner sc = new Scanner(System.in);
         String choice;
         while (true) {
-            System.out.println("Enter coffee type (Espresso / Latte / Cappuccino) or 'exit' to quit:");
+            System.out.println("Enter coffee type (Espresso / Latte / Cappuccino) or 'exit' to quit :");
             choice = sc.next();
             if (choice.equalsIgnoreCase("exit")) break;
             System.out.println("Enter quantity:");
