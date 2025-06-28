@@ -7,7 +7,7 @@ public class Q3_ParkingLotGateSystem {
         int capacity = 5;
         int occupied = 0;
         while (true) {
-            System.out.println("1. Park\n2. Exit\n3. Show Occupancy\n4. Quit");
+            System.out.println(" 1. Park\n2. Exit\n3. Show Occupancy\n4. Quit");
             int choice = sc.nextInt();
             switch (choice) {
                 case 1:
