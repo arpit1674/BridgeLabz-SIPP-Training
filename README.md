@@ -60,5 +60,5 @@ Constructors, variable types, and access control.
 Important Java keywords and their application.
 
 📁 [workshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day1_onWorkshop)
-Interactive programs like Coffee Counter, Election Booth,Parking System and Students Score Manager using loops, switch-case, and conditionals.
+Interactive programs like Coffee Counter, Election Booth, Parking System and Students Score Manager using loops, switch-case, and conditionals.
 
