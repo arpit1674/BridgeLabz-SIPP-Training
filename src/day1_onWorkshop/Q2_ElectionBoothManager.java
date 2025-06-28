@@ -6,7 +6,7 @@ public class Q2_ElectionBoothManager {
         Scanner sc = new Scanner(System.in);
         int vote1 = 0, vote2 = 0, vote3 = 0;
         while (true) {
-            System.out.println("Enter age or -1 to stop:");
+            System.out.println("Enter age or -1 to stop :");
             int age = sc.nextInt();
             if (age == -1) break;
             if (age < 18) {
