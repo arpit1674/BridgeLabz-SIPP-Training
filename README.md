@@ -2,7 +2,7 @@
 
 This repository contains my structured Java practice, organized by topics and learning progress. Each folder corresponds to a specific concept or week of training.
 
-📁 [day1_ProgrammingElements.level1PracticePrograms](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/day1_ProgrammingElements)
+📁 [day1_ProgrammingElements.level1PracticePrograms](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/day1_ProgrammingElements/level1PracticePrograms)
 Fundamentals like variables, operators, and basic syntax.
 
 📁 [day1_ProgrammingElements.level2PracticePrograms](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/day1_ProgrammingElements.level2PracticePrograms)
