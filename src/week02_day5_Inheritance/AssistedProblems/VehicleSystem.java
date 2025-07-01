@@ -1,4 +1,4 @@
-package week02_day5_Inheritance.AssitedProblems;
+package week02_day5_Inheritance.AssistedProblems;
 
 class Vehicle {
     int maxSpeed;
