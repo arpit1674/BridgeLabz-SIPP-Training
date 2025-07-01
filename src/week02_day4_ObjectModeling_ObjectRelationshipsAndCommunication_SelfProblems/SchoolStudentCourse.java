@@ -3,7 +3,7 @@ package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication_SelfProbl
 
 import java.util.*;
 
-public class Q1_SchoolStudentCourse {
+public class SchoolStudentCourse {
     public static void main(String[] args) {
         Student s1 = new Student("Alice");
         Student s2 = new Student("Bob");
