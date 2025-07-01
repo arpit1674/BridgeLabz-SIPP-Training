@@ -1,4 +1,4 @@
-package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication_AssistedProblems;
+package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.AssistedProblems;
 import java.util.ArrayList;
 
 public class Q3_CompanyDepartmentComposition {

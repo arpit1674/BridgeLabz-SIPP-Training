@@ -1,10 +1,10 @@
-package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication_AssistedProblems;
+package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.AssistedProblems;
 import java.util.ArrayList;
 
-public class Q1_LibraryBookAggregation {
+public class LibraryBookAggregation {
     String name;
     ArrayList<Book> books = new ArrayList<>();
-    Q1_LibraryBookAggregation(String name) {
+    LibraryBookAggregation(String name) {
         this.name = name;
     }
     void addBook(Book book) {
@@ -19,7 +19,7 @@ public class Q1_LibraryBookAggregation {
     public static void main(String[] args) {
         Book b1 = new Book("Java", "James");
         Book b2 = new Book("Python", "Guido");
-        Q1_LibraryBookAggregation lib = new Q1_LibraryBookAggregation("City Library");
+        LibraryBookAggregation lib = new LibraryBookAggregation("City Library");
         lib.addBook(b1);
         lib.addBook(b2);
         lib.showBooks();

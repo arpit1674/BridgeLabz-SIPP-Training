@@ -1,4 +1,4 @@
-package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication_AssistedProblems;
+package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.AssistedProblems;
 public class Q2_BankCustomerAssociation {
     public static void main(String[] args) {
         Bank bank = new Bank("SBI");
