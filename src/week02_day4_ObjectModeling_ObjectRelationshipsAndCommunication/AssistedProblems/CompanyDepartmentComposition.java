@@ -1,10 +1,10 @@
 package week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.AssistedProblems;
 import java.util.ArrayList;
 
-public class Q3_CompanyDepartmentComposition {
+public class CompanyDepartmentComposition {
     String name;
     ArrayList<Department> departments = new ArrayList<>();
-    Q3_CompanyDepartmentComposition(String name) {
+    CompanyDepartmentComposition(String name) {
         this.name = name;
     }
     void addDepartment(String deptName, String empName) {
@@ -17,7 +17,7 @@ public class Q3_CompanyDepartmentComposition {
         }
     }
     public static void main(String[] args) {
-        Q3_CompanyDepartmentComposition comp = new Q3_CompanyDepartmentComposition("TechCorp");
+        CompanyDepartmentComposition comp = new CompanyDepartmentComposition("TechCorp");
         comp.addDepartment("IT", "John");
         comp.addDepartment("HR", "Doe");
         comp.show();
