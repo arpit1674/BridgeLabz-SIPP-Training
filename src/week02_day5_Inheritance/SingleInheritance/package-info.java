@@ -1,1 +1,0 @@
-package week02_day5_Inheritance.SingleInheritance;
