@@ -62,3 +62,28 @@ Important Java keywords and their application.
 📁 [day1_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day1_onWorkshop)
 Interactive programs like Coffee Counter, Election Booth, Parking System and Students Score Manager using loops, switch-case, and conditionals.
 
+📁 [week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.AssistedProblems](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication/AssistedProblems)
+Includes assisted problems to demonstrate Aggregation, Association, and Composition in object relationships.
+
+📁 [week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.Class_ObjectAndSequenceDiagram](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication/Class_ObjectAndSequenceDiagram)
+Modeling scenarios with Class, Object, and Sequence Diagrams for School Results and Grocery Billing systems.
+
+📁 [week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication.SelfProblems](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day4_ObjectModeling_ObjectRelationshipsAndCommunication/SelfProblems)
+Self-attempted object modeling problems covering School, University, Hospital, and E-Commerce.
+
+📁 [week02_day5_Inheritance.AssistedProblems](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day5_Inheritance/AssistedProblems)
+Basic inheritance applications including Animal, Vehicle, and Employee hierarchies.
+
+📁 [week02_day5_Inheritance.HierarchicalInheritance](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day5_Inheritance/HierarchicalInheritance)
+Multiple subclasses like Teacher, Student, and Staff extending a common Person superclass.
+
+📁 [week02_day5_Inheritance.HybridInheritance](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day5_Inheritance/HybridInheritance)
+Combines interfaces with class inheritance to simulate multiple inheritance (e.g., Restaurant and Vehicle Systems).
+
+📁 [week02_day5_Inheritance.MultiLevelInheritance](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day5_Inheritance/MultiLevelInheritance)
+A chain of inheritance demonstrating deeper relationships (e.g., Orders and Online Courses).
+
+📁 [week02_day5_Inheritance.SingleInheritance](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day5_Inheritance/SingleInheritance)
+Simple base-to-subclass models like Smart Devices and Library Systems using single inheritance.
+
+
