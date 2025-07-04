@@ -89,7 +89,7 @@ Simple base-to-subclass models like Smart Devices and Library Systems using sing
 📁 [week02_day6_Encapsulation_Polymorphism_InterfaceAndAbstractClass](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day6_Encapsulation_Polymorphism_InterfaceAndAbstractClass)
 Covers object-oriented concepts such as encapsulation, polymorphism, interfaces, and abstract classes through real-world examples and systems.
 
-📁 [day2_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/day2_onWorkshop)
+📁 [day2_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day2_onWorkshop)
 Includes implementation of Cab Invoice Generator and related workshop-based problem-solving.
 
 
