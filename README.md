@@ -86,4 +86,10 @@ A chain of inheritance demonstrating deeper relationships (e.g., Orders and Onli
 📁 [week02_day5_Inheritance.SingleInheritance](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day5_Inheritance/SingleInheritance)
 Simple base-to-subclass models like Smart Devices and Library Systems using single inheritance.
 
+📁 [week02_day6_Encapsulation_Polymorphism_InterfaceAndAbstractClass](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week02_day6_Encapsulation_Polymorphism_InterfaceAndAbstractClass)
+Covers object-oriented concepts such as encapsulation, polymorphism, interfaces, and abstract classes through real-world examples and systems.
+
+📁 [day2_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/day2_onWorkshop)
+Includes implementation of Cab Invoice Generator and related workshop-based problem-solving.
+
 
