@@ -92,4 +92,23 @@ Covers object-oriented concepts such as encapsulation, polymorphism, interfaces,
 📁 [day2_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day2_onWorkshop)
 Includes implementation of Cab Invoice Generator and related workshop-based problem-solving.
 
+📁 [week03_day1_LinkedList.SinglyLinkedList](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day1_LinkedList/SinglyLinkedList)
+Implements real-world applications using singly linked lists for:
+- Student Record Management  
+- Inventory Management System  
+- Social Media Friend Connections  
+
+📁 [week03_day1_LinkedList.DoublyLinkedList](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day1_LinkedList/DoublyLinkedList)
+Solves problems involving bidirectional traversal with doubly linked list:
+- Movie Management System  
+- Library Management System  
+- Undo/Redo in a Text Editor  
+
+📁 [week03_day1_LinkedList.CircularLinkedList](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day1_LinkedList/CircularLinkedList)
+Demonstrates circular list behavior through scheduling and reservations:
+- Task Scheduler  
+- Round Robin Scheduling Algorithm  
+- Online Ticket Reservation System  
+
+
 
