@@ -124,7 +124,32 @@ Demonstrates applications of hash maps and hash functions for common coding prob
 - Check for a Pair with Given Sum in an Array  
 - Longest Consecutive Sequence  
 - Implement a Custom Hash Map  
-- Two Sum Problem  
+- Two Sum Problem
+
+📁 [week03_day3_SortingAlgorithms](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day3_SortingAlgorithms)
+Covers classic sorting algorithms implemented in Java with real-world scenarios:
+
+- **Bubble Sort**  
+  Sorts student marks in ascending order using the Bubble Sort algorithm.
+
+- **Insertion Sort**  
+  Sorts employee IDs in ascending order using the Insertion Sort technique.
+
+- **Merge Sort**  
+  Sorts an array of book prices using the divide-and-conquer based Merge Sort algorithm.
+
+- **Quick Sort**  
+  Sorts product prices in ascending order using the Quick Sort algorithm with partitioning.
+
+- **Selection Sort**  
+  Sorts student exam scores using the Selection Sort technique.
+
+- **Heap Sort**  
+  Sorts job applicants based on salary using a max heap structure.
+
+- **Counting Sort**  
+  Sorts student ages efficiently using the Counting Sort algorithm for a known range.
+
 
 
 
