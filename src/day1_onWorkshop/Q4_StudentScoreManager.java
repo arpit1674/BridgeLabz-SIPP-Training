@@ -15,7 +15,7 @@ public class Q4_StudentScoreManager {
                 else System.out.println("Number of students must be positive.");
             } else {
                 System.out.println("Invalid input. Please enter a valid number.");
-                sc.next(); // clear the invalid input
+                sc.next();
             }
         }
 
@@ -32,7 +32,7 @@ public class Q4_StudentScoreManager {
                 }
             } else {
                 System.out.println("Invalid input. Enter numeric score.");
-                sc.next(); // clear invalid input
+                sc.next();
             }
         }
 
