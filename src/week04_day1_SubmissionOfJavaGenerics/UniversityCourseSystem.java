@@ -1,4 +1,4 @@
-package day1_SubmissionOfJavaGenerics;
+package week04_day1_SubmissionOfJavaGenerics;
 
 import java.util.List;
 
