@@ -110,7 +110,7 @@ Demonstrates circular list behavior through scheduling and reservations:
 - Round Robin Scheduling Algorithm  
 - Online Ticket Reservation System
 
-  📁 [week03_day2_Stacks_Queues_HashMapsAndHashFunctions.StacksAndQueues](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day2_Stacks_Queues_HashMapsAndHashFunctions/StacksAndQueues)
+📁 [week03_day2_Stacks_Queues_HashMapsAndHashFunctions.StacksAndQueues](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day2_Stacks_Queues_HashMapsAndHashFunctions/StacksAndQueues)
 Implements stack and queue based problems covering classical and interview scenarios:  
 - Implement a Queue Using Two Stacks  
 - Sort a Stack Using Recursion  
