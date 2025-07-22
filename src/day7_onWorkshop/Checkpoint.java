@@ -7,7 +7,7 @@ public class Checkpoint {
 	int expectedDuration; // in minutes
 	int actualDuration; // in minutes
 	
-	void DelieveryCheckpoint(String id, String locationName, ) {
+	void DelieveryCheckpoint(String id, String locationName) {
 		System.out.println();
 	}
 	void fuelCheckpoint() {
