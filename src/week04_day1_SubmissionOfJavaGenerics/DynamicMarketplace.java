@@ -1,4 +1,4 @@
-package day1_SubmissionOfJavaGenerics;
+package week04_day1_SubmissionOfJavaGenerics;
 
 interface Category {}
 class BookCategory implements Category {}
