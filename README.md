@@ -160,7 +160,7 @@ Implements search algorithms and I/O operations with practical examples:
 - Comparison of Linear and Binary Search  
 - Time complexity analysis of both algorithms  
 
-📁 [day3_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day3_onWorkshop)  
+📁 [day3_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day3_onWorkshop)
  **Hospital Patient Management System**  
 - Simulates patient admissions, doctor assignments, billing, and discharge.  
 - Concepts used:  
@@ -170,7 +170,7 @@ Implements search algorithms and I/O operations with practical examples:
   - **Constructor Overloading**: Emergency vs normal patient  
   - **Polymorphism**: `displayInfo()` overridden across entities  
 
-📁 [day4_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day4_onWorkshop)  
+📁 [day4_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day4_onWorkshop)
  **Social Media Notification Feed**  
 - Stores user notifications in reverse-chronological order.  
 - Concepts used:  
@@ -178,7 +178,7 @@ Implements search algorithms and I/O operations with practical examples:
   - **Encapsulation & Abstraction**: feed managed privately  
   - **Polymorphism**: Generic handling of `LikeNotification`, `CommentNotification`  
 
-📁 [day5_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day5_onWorkshop)  
+📁 [day5_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day5_onWorkshop)
  **Web Browser Tab Navigation**  
 - Implements Back/Forward tab simulation using stacks.  
 - Concepts used:  
@@ -187,7 +187,7 @@ Implements search algorithms and I/O operations with practical examples:
   - **Interface**: `NavigationManager`  
   - **Polymorphism**: Extendable for mobile vs desktop  
 
-📁 [day6_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day6_onWorkshop)  
+📁 [day6_onWorkshop](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/day6_onWorkshop)
  **IceCreamRush - Sorting Flavors by Popularity**  
 - Sorts ice cream flavors based on weekly sales using Bubble Sort.  
 - Concepts used:  
@@ -195,11 +195,11 @@ Implements search algorithms and I/O operations with practical examples:
   - **Array Manipulation** and input validation  
   - Repeated adjacent comparisons and swaps  
 
-📁 [week03_day6_SubmissionofAlgorithmsRuntimeAnalysisAndBigONotation](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Workshop/src/week03_day6_SubmissionofAlgorithmsRuntimeAnalysisAndBigONotation)  
+📁 [week03_day6_SubmissionofAlgorithmsRuntimeAnalysisAndBigONotation](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week03_day6_SubmissionofAlgorithmsRuntimeAnalysisAndBigONotation)
  **Algorithm Runtime Analysis & Big O Notation**  
 Implements and compares performance of core data structure and algorithm operations through real-time execution analysis.
 
-📁[week04_day1_SubmissionOfJavaGenerics](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week04_day1_SubmissionOfJavaGenerics)  
+📁[week04_day1_SubmissionOfJavaGenerics](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week04_day1_SubmissionOfJavaGenerics)
 Implemented real-world problems using Generic Classes, Methods, Bounded Types, and Wildcards.  
 Built reusable systems like Smart Warehouse, Meal Plan Generator, and Resume Screening.  
 Gained expertise in type safety, flexibility, and cleaner code with Java Generics.
