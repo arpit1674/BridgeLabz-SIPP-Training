@@ -15,5 +15,5 @@ target/
 .DS_Store
 Thumbs.db
 !src/
-!README.md
+README.md
 
