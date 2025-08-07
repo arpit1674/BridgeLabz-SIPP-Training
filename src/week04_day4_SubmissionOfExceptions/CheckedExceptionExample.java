@@ -1,4 +1,4 @@
-package week04_day3_SubmissionOfExceptions;
+package week04_day4_SubmissionOfExceptions;
 
 import java.io.FileInputStream;
 import java.io.IOException;
