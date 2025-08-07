@@ -204,3 +204,27 @@ Implemented real-world problems using Generic Classes, Methods, Bounded Types, a
 Built reusable systems like Smart Warehouse, Meal Plan Generator, and Resume Screening.  
 Gained expertise in type safety, flexibility, and cleaner code with Java Generics.
 
+📁 [week04_day2_SubmissionOfJavaCollections](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week04_day2_SubmissionOfJavaCollections) Java Collections  
+Implemented real-world applications using Java Collections like Lists, Sets, and Maps.  
+Used data-centric systems such as:  
+- Student Grades Tracker using `HashMap`  
+- Unique Product Catalog using `HashSet`  
+- Task Prioritization with `PriorityQueue`  
+Gained understanding of collection interfaces, iterators, and performance trade-offs.
+
+📁 [week04_day3_SubmissionOfJavaStreams](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week04_day3_SubmissionOfJavaStreams) Java Streams API  
+Leveraged Java Stream API for efficient data processing and manipulation.  
+Key implementations:  
+- Filtering and mapping in Employee Payroll System  
+- Data aggregation using `Collectors` (sum, average, grouping)  
+- Stream pipelines for cleaning and transforming input records  
+Focused on declarative programming, lambda expressions, and performance benefits.
+
+📁 [week04_day4_SubmissionOfExceptions](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/main/src/week04_day4_SubmissionOfExceptions) Exception Handling in Java  
+Mastered error handling using `try-catch-finally`, custom exceptions, and error recovery.  
+Project examples include:  
+- Banking System with custom `InsufficientFundsException`  
+- File Reader with graceful handling of `IOException` and validation errors  
+- Robust Input Validator using nested try-catch and `throw/throws` keyword  
+Enhanced code reliability, maintainability, and debugging skills.
+
