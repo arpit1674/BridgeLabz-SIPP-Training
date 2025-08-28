@@ -13,7 +13,7 @@ public class FileProcessorTest {
     @Test
     void testFileWriteAndRead() throws IOException {
         processor.writeToFile(filename, "Hello World");
-        String content = processor.readFromFile(filename);
+        String content = processor.readFromFile(filename); 
         assertEquals("Hello World", content);
         assertTrue(new File(filename).exists());
     }
