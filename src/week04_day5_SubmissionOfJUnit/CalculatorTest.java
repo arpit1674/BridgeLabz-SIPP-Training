@@ -1,9 +1,8 @@
 package week04_day5_SubmissionOfJUnit;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
-public class CalculatorTest {
+public class CalculatorTest implements Test{
 
     Calculator calc = new Calculator();
 
