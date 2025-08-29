@@ -228,7 +228,7 @@ Project examples include:
 - Robust Input Validator using nested try-catch and `throw/throws` keyword  
 Enhanced code reliability, maintainability, and debugging skills.
 
-## 📁 [week04_day5_SubmissionOfJUnit](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfJUnit)  
+📁 [week04_day5_SubmissionOfJUnit](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfJUnit)
 Implemented unit testing using **JUnit** for validating core functionalities of applications.  
 
 - `CalculatorTest` → Arithmetic operations  
@@ -242,9 +242,7 @@ Implemented unit testing using **JUnit** for validating core functionalities of 
 
 ✅ Strengthened **TDD (Test-Driven Development)** practices, ensuring correctness and robustness of code.  
 
----
-
-## 📁 [week04_day5_SubmissionOfRegex](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfRegex)  
+📁 [week04_day5_SubmissionOfRegex](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfRegex)
 Developed real-world text processing utilities using **Regular Expressions**.  
 
 - `ExtractEmails` → Extract valid emails from text  
@@ -257,9 +255,7 @@ Developed real-world text processing utilities using **Regular Expressions**.
 
 ✅ Focused on **pattern matching, data cleaning, and validation** using regex.  
 
----
-
-## 📁 [week06_day1_SubmissionOfLambdaExpressions](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day1_SubmissionOfLambdaExpressions)  
+📁 [week06_day1_SubmissionOfLambdaExpressions](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day1_SubmissionOfLambdaExpressions)
 Explored **Lambda Expressions** in Java for simplifying functional programming.  
 
 - `CustomSorting` → Sort collections with lambda comparators  
@@ -271,9 +267,7 @@ Explored **Lambda Expressions** in Java for simplifying functional programming.
 
 ✅ Improved **code readability, conciseness, and flexibility** using lambdas.  
 
----
-
-## 📁 [week06_day2_SubmissionOfFunctionalInterfaces](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day2_SubmissionOfFunctionalInterfaces)  
+📁 [week06_day2_SubmissionOfFunctionalInterfaces](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day2_SubmissionOfFunctionalInterfaces)
 Implemented **Functional Interfaces** for real-world tasks.  
 
 - `TemperatureAlertSystem` → Alerts using `Predicate<Double>`  
@@ -285,9 +279,7 @@ Implemented **Functional Interfaces** for real-world tasks.
 
 ✅ Strengthened use cases of **Predicate, Function, Runnable** with **default & static methods**.  
 
----
-
-## 📁 [week06_day3_StreamAPI](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day3_StreamAPI)  
+📁 [week06_day3_StreamAPI](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day3_StreamAPI)
 Leveraged **Java Stream API** for data processing and analysis.  
 
 - `TrendingMovies` → Top 5 movies sorted by rating/year  
