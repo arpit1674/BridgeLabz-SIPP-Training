@@ -240,7 +240,7 @@ Implemented unit testing using **JUnit** for validating core functionalities of 
 - `PerformanceTesterTest` → Execution performance  
 - `StringUtilsTest` → String manipulations  
 
-✅ Strengthened **TDD (Test-Driven Development)** practices, ensuring correctness and robustness of code.  
+Strengthened **TDD (Test-Driven Development)** practices, ensuring correctness and robustness of code.  
 
 📁 [week04_day5_SubmissionOfRegex](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfRegex)
 Developed real-world text processing utilities using **Regular Expressions**.  
@@ -253,7 +253,7 @@ Developed real-world text processing utilities using **Regular Expressions**.
 - `ReplaceMultipleSpaces`, `CensorBadWords` → Text cleanup and filtering  
 - `FindRepeatingWords` → Detect duplicate words in documents  
 
-✅ Focused on **pattern matching, data cleaning, and validation** using regex.  
+Focused on **pattern matching, data cleaning, and validation** using regex.  
 
 📁 [week06_day1_SubmissionOfLambdaExpressions](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day1_SubmissionOfLambdaExpressions)
 Explored **Lambda Expressions** in Java for simplifying functional programming.  
@@ -265,7 +265,7 @@ Explored **Lambda Expressions** in Java for simplifying functional programming.
 - `SmartHomeLighting` → Control IoT devices with lambdas  
 - `InvoiceObjectCreation` → Generate invoices dynamically  
 
-✅ Improved **code readability, conciseness, and flexibility** using lambdas.  
+Improved **code readability, conciseness, and flexibility** using lambdas.  
 
 📁 [week06_day2_SubmissionOfFunctionalInterfaces](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day2_SubmissionOfFunctionalInterfaces)
 Implemented **Functional Interfaces** for real-world tasks.  
@@ -277,7 +277,7 @@ Implemented **Functional Interfaces** for real-world tasks.
 - `PaymentGatewayIntegration`, `DataExportFeature`, `SmartVehicleDashboard` → Default methods in action  
 - `SmartDeviceControlInterface`, `MultiVehicleRentalSystem`, `DigitalPaymentInterface` → Interface-based system designs  
 
-✅ Strengthened use cases of **Predicate, Function, Runnable** with **default & static methods**.  
+Strengthened use cases of **Predicate, Function, Runnable** with **default & static methods**.  
 
 📁 [week06_day3_StreamAPI](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day3_StreamAPI)
 Leveraged **Java Stream API** for data processing and analysis.  
@@ -292,4 +292,4 @@ Leveraged **Java Stream API** for data processing and analysis.
 - `IoTSensor` → Print readings above threshold  
 - `EmailNotifications`, `LoggingTransactions` → Notification & logging pipelines  
 
-✅ Focused on **filtering, mapping, grouping, aggregation, and iteration** using streams.
+Focused on **filtering, mapping, grouping, aggregation, and iteration** using streams.
