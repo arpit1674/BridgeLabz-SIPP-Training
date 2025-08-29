@@ -230,42 +230,42 @@ Enhanced code reliability, maintainability, and debugging skills.
 
 ## 📁 [week04_day5_SubmissionOfJUnit](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfJUnit)  
 Implemented unit testing using **JUnit** for validating core functionalities of applications.  
-Key implementations:  
-- `CalculatorTest` for arithmetic operations  
-- `DatabaseConnectionTest` for connection validation  
-- `DivisionTest` for exception handling in division  
-- `FileProcessorTest` for file reading and writing  
-- `ListManagerTest` for collection operations  
-- `MathUtilsTest` for mathematical computations  
-- `PerformanceTesterTest` for measuring execution performance  
-- `StringUtilsTest` for string manipulations  
 
-✅ Strengthened **test-driven development (TDD)** practices, ensuring correctness and robustness of code.  
+- `CalculatorTest` → Arithmetic operations  
+- `DatabaseConnectionTest` → Connection validation  
+- `DivisionTest` → Exception handling in division  
+- `FileProcessorTest` → File reading and writing  
+- `ListManagerTest` → Collection operations  
+- `MathUtilsTest` → Mathematical computations  
+- `PerformanceTesterTest` → Execution performance  
+- `StringUtilsTest` → String manipulations  
+
+✅ Strengthened **TDD (Test-Driven Development)** practices, ensuring correctness and robustness of code.  
 
 ---
 
 ## 📁 [week04_day5_SubmissionOfRegex](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week04_day5_SubmissionOfRegex)  
 Developed real-world text processing utilities using **Regular Expressions**.  
-Key implementations:  
+
 - `ExtractEmails` → Extract valid emails from text  
 - `ExtractDates` → Identify and format dates  
 - `ValidateCreditCard` → Check valid card numbers  
-- `ValidateIPAddress`, `ValidateHexColor`, `ValidateSSN`, `ValidateLicensePlate`, `ValidateUsername` → Validation systems  
+- `ValidateIPAddress`, `ValidateHexColor`, `ValidateSSN`, `ValidateLicensePlate`, `ValidateUsername` → Validation utilities  
 - `ExtractLinks`, `ExtractLanguages`, `ExtractCurrencyValues` → Information extraction  
 - `ReplaceMultipleSpaces`, `CensorBadWords` → Text cleanup and filtering  
 - `FindRepeatingWords` → Detect duplicate words in documents  
 
-✅ Focused on **pattern matching**, **data cleaning**, and **validation** using regex.  
+✅ Focused on **pattern matching, data cleaning, and validation** using regex.  
 
 ---
 
 ## 📁 [week06_day1_SubmissionOfLambdaExpressions](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day1_SubmissionOfLambdaExpressions)  
 Explored **Lambda Expressions** in Java for simplifying functional programming.  
-Key implementations:  
+
 - `CustomSorting` → Sort collections with lambda comparators  
 - `NameUppercasing` → Transform list of names  
 - `NotificationFiltering` → Filter system notifications  
-- `PatientIdPrinting` → Print IDs using concise syntax  
+- `PatientIdPrinting` → Print IDs concisely  
 - `SmartHomeLighting` → Control IoT devices with lambdas  
 - `InvoiceObjectCreation` → Generate invoices dynamically  
 
@@ -275,28 +275,28 @@ Key implementations:
 
 ## 📁 [week06_day2_SubmissionOfFunctionalInterfaces](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day2_SubmissionOfFunctionalInterfaces)  
 Implemented **Functional Interfaces** for real-world tasks.  
-Key implementations:  
+
 - `TemperatureAlertSystem` → Alerts using `Predicate<Double>`  
 - `StringLengthChecker` → Character limits with `Function<String, Integer>`  
 - `BackgroundJobExecution` → Async execution with `Runnable`  
 - `PasswordStrengthValidator`, `UnitConversionTool`, `DateFormatUtility` → Utility static methods  
-- `PaymentGatewayIntegration`, `DataExportFeature`, `SmartVehicleDashboard` → Extended via default methods  
-- `SmartDeviceControlInterface`, `MultiVehicleRentalSystem`, `DigitalPaymentInterface` → Core interface-based designs  
+- `PaymentGatewayIntegration`, `DataExportFeature`, `SmartVehicleDashboard` → Default methods in action  
+- `SmartDeviceControlInterface`, `MultiVehicleRentalSystem`, `DigitalPaymentInterface` → Interface-based system designs  
 
-✅ Strengthened **Predicate, Function, Runnable** use cases with **default & static methods**.  
+✅ Strengthened use cases of **Predicate, Function, Runnable** with **default & static methods**.  
 
 ---
 
 ## 📁 [week06_day3_StreamAPI](https://github.com/arpit1674/BridgeLabz-SIPP-Training/tree/Generics/src/week06_day3_StreamAPI)  
 Leveraged **Java Stream API** for data processing and analysis.  
-Key implementations:  
+
 - `TrendingMovies` → Top 5 movies sorted by rating/year  
 - `DoctorAvailability` → Weekend doctors filtered and sorted  
 - `InsuranceClaims` → Average claim amount by type using `groupingBy`  
 - `ExpiringMemberships` → Filter memberships expiring in next 30 days  
-- `TransformNames` → Convert customer names to uppercase and sort  
+- `TransformNames` → Convert names to uppercase & sort alphabetically  
 - `StockPriceLogger` → Log live stock prices with `forEach`  
-- `EventAttendees` → Print welcome messages  
+- `EventAttendees` → Print welcome messages for participants  
 - `IoTSensor` → Print readings above threshold  
 - `EmailNotifications`, `LoggingTransactions` → Notification & logging pipelines  
 
